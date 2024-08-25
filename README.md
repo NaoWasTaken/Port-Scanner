@@ -25,6 +25,8 @@ If using EXE skip step 2
 
 4. Run Program and Enter your IP Address
 
+5. If using exe - after about 15/20 minutes push enter
+
 Notes:
 
 This program does nothing other than identifies and prints what ports are open from ranges 0-1023, which are considered system ports
